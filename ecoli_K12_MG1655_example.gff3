@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region NC_000913.3 1 4641652
+NC_000913.3	refseq	gene	363230	366304	.	-	.	ID=lacZ;Name=lacZ;Note=source:VIOLIN
+NC_000913.3	refseq	mRNA	363230	366304	.	-	.	ID=lacZ.mRNA;Parent=lacZ
+NC_000913.3	refseq	CDS	363230	366304	.	-	0	ID=lacZ.CDS;Parent=lacZ.mRNA;product=putative
+NC_000913.3	refseq	gene	3879078	3880508	.	+	.	ID=dnaN;Name=dnaN;Note=source:Wikipedia
+NC_000913.3	refseq	mRNA	3879078	3880508	.	+	.	ID=dnaN.mRNA;Parent=dnaN
+NC_000913.3	refseq	CDS	3879078	3880508	.	+	0	ID=dnaN.CDS;Parent=dnaN.mRNA;product=putative
+NC_000913.3	refseq	gene	3880138	3881961	.	+	.	ID=dnaA;Name=dnaA;Note=source:Wikipedia
+NC_000913.3	refseq	mRNA	3880138	3881961	.	+	.	ID=dnaA.mRNA;Parent=dnaA
+NC_000913.3	refseq	CDS	3880138	3881961	.	+	0	ID=dnaA.CDS;Parent=dnaA.mRNA;product=putative
+NC_000913.3	refseq	gene	235956	236907	.	+	.	ID=dnaQ;Name=dnaQ;Note=source:Wikipedia
+NC_000913.3	refseq	mRNA	235956	236907	.	+	.	ID=dnaQ.mRNA;Parent=dnaQ
+NC_000913.3	refseq	CDS	235956	236907	.	+	0	ID=dnaQ.CDS;Parent=dnaQ.mRNA;product=putative
+NC_000913.3	refseq	gene	2172921	2174278	.	-	.	ID=gatC;Name=gatC;Note=source:NCBI Gene
+NC_000913.3	refseq	mRNA	2172921	2174278	.	-	.	ID=gatC.mRNA;Parent=gatC
+NC_000913.3	refseq	CDS	2172921	2174278	.	-	0	ID=gatC.CDS;Parent=gatC.mRNA;product=putative
+NC_000913.3	refseq	gene	17489	18655	.	+	.	ID=nhaA;Name=nhaA;Note=source:NCBI Datasets snippet
+NC_000913.3	refseq	mRNA	17489	18655	.	+	.	ID=nhaA.mRNA;Parent=nhaA
+NC_000913.3	refseq	CDS	17489	18655	.	+	0	ID=nhaA.CDS;Parent=nhaA.mRNA;product=putative

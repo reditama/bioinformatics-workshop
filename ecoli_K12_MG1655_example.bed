@@ -1,0 +1,7 @@
+# chrom	start	end	name	score	strand	# NC_000913.3 (BED6, 0-based, half-open)
+NC_000913.3	363229	366304	lacZ	0	-	# source=VIOLIN
+NC_000913.3	3879077	3880508	dnaN	0	+	# source=Wikipedia
+NC_000913.3	3880137	3881961	dnaA	0	+	# source=Wikipedia
+NC_000913.3	235955	236907	dnaQ	0	+	# source=Wikipedia
+NC_000913.3	2172920	2174278	gatC	0	-	# source=NCBI Gene
+NC_000913.3	17488	18655	nhaA	0	+	# source=NCBI Datasets snippet
